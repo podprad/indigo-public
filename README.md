@@ -7,11 +7,11 @@ I also tested it myself on the Steam Deck (video attached).
 Public github link: 
 https://github.com/podprad/indigo-public
 
+Latest release:
+https://github.com/podprad/indigo-public/releases/
+
 Short Steam Deck gameplay:
 https://youtube.com/shorts/RF5GbepilEA
-
-Latest download:
-https://wetransfer.com/previews/d11c016c366f220effba362e41323bd720261018194332/bde046
 
 There are 2 apps:
 
@@ -24,4 +24,4 @@ Future plans:
 2. Adding modding API
 3. Adding some fancy features when modding API is ready
 
-I still keep the source code on private repo. If anyone is interested I can share it as it is, but's still messy. If you are curious, you can decompile it, it's pure, not obfuscated .NET ;)
+I still keep the source code on private repo. If anyone is interested I can share it as it is, but's still messy.
