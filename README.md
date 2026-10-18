@@ -1,5 +1,7 @@
 I'm doing a hobby project - rewriting NFS2SE in .NET / Mono. 
 
+The project is called "Indigo" - just because it's my favorite car from this game :)
+
 No wrappers required. The basic features are done, so you can play knockout etc.
 
 Public github link: 
@@ -14,9 +16,16 @@ https://youtube.com/shorts/RF5GbepilEA
 Windows/PC Gameplay:
 https://youtu.be/KgriBLgJNq0
 
-There are 2 apps:
-1. Indigo-*.zip - Indigo.exe and few dlls, extract and copy them to your NFS2SE directory, because game resources like images, models are taken from original game. To play, just run Indigo.exe
-2. Indigo-Server-*.zip - server exe, just for hosting games, currently single player only, still working on it.
+What you need:
+1. Original game
+2. Indigo-*.zip (see releases page)
+
+How to play:
+1. Download Indigo-*.zip
+2. Extract files to the directory, where your original game is located.
+3. Run Indigo.exe
+
+Network mode is still in development, but I'm sharing the server exe too.
 
 Future plans:
 1. Multiplayer knockout
