@@ -2,22 +2,21 @@ I'm doing a hobby project - rewriting NFS2SE in .NET / Mono.
 
 No wrappers required. The basic features are done, so you can play knockout etc.
 
-I also tested it myself on the Steam Deck (video attached).
-
 Public github link: 
 https://github.com/podprad/indigo-public
 
 Latest release:
 https://github.com/podprad/indigo-public/releases/
 
-Short Steam Deck gameplay:
+Steam Deck gameplay:
 https://youtube.com/shorts/RF5GbepilEA
 
+Windows/PC Gameplay:
+https://youtu.be/KgriBLgJNq0
+
 There are 2 apps:
-
-Indigo-*.zip - Indigo.exe and few dlls, extract and copy them to your NFS2SE directory, because game resources like images, models are taken from original game. To play, just run Indigo.exe
-
-Indigo-Server-*.zip - server exe, just for hosting games, currently single player only, still working on it.
+1. Indigo-*.zip - Indigo.exe and few dlls, extract and copy them to your NFS2SE directory, because game resources like images, models are taken from original game. To play, just run Indigo.exe
+2. Indigo-Server-*.zip - server exe, just for hosting games, currently single player only, still working on it.
 
 Future plans:
 1. Multiplayer knockout
