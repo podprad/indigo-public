@@ -24,4 +24,4 @@ Future plans:
 2. Adding modding API
 3. Adding some fancy features when modding API is ready
 
-I still keep the source code on private repo. If anyone is interested I can share it as it is, but's still messy ;)
+I still keep the source code on private repo. If anyone is interested I can share it as it is, but's still messy. If you are curious, you can decompile it, it's pure, not obfuscated .NET ;)
