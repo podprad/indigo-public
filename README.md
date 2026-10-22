@@ -23,6 +23,9 @@ Latest releases
 3. Network Mode Gameplay:
 > https://youtu.be/-rqb_foKQWA
 
+4. Duster Racing:
+> https://www.youtube.com/watch?v=hFGMSaZYSao
+
 ## What you need
 1. Original game
 2. Indigo-*.zip (see releases page)
